@@ -3,4 +3,4 @@
 ローカルリポで変更　　
 rebase-practiceブランチで更新(rebase用2回目)
 rebase用
-stash用(track済)
+stash練習(2回目)
